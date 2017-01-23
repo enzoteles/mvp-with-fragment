@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GingaOne-SpiderMain</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="developer">Desenvolvido por:</string>
+    <string name="txt_about">Sobre:</string>
+
+
+
+
+    <string name="about">O aplicativo da \"Marvel\"" está destinado para pessoas que são apaixonadas por resvista em quadrinhos e que tem interrese em entrar nesse mundo da marvel.O aplicativo visa apresentar de forma agradável e simples a informção desejada pelo usuário, auxiliando a pesquisa por um revista em quadrinho do seu herói favorito.</string>
+
+</resources>
